@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <id>org.cockpit_project.cloudflarewarp</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Cloudflare Warp</name>
+  <summary>Cloudflare Warp application</summary>
+  <description>
+    <p>
+      Cloudflare Warp application for Cockpit
+    </p>
+  </description>
+  <extends>org.cockpit_project.cloudflarewarp</extends>
+  <launchable type="cockpit-manifest">cloudflarewarp</launchable>
+  <url type="homepage">https://github.com/spotsnel/cockpit-cloudflarewarp</url>
+  <url type="bugtracker">https://github.com/spotsnel/cockpit-cloudflarewarp/issues</url>
+  <update_contact>me@gbraad.nl</update_contact>
+</component>
